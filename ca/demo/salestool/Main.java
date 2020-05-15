@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("THIS APP SHOW SALES DATA");
 		System.out.println("WoW it is pushed");
 		System.out.println("4th display statement");
+		System.out.println(" this line added in remote repo");
 	}
 
 }
